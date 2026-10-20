@@ -1,3 +1,38 @@
+```mermaid
+flowchart LR
+    U["User"] --> T["Terminal Emulator"]
+    T --> PTY["Pseudo-Terminal"]
+    PTY --> B["Bash Shell"]
+    B --> P["Parse and Expand Command"]
+    P --> R{"Command Type?"}
+
+    R -->|Built-in| BI["Run inside Bash"]
+    R -->|External| C["Create Child Process"]
+    R -->|Script| S["Select Interpreter<br/>using shebang"]
+
+    C --> E["Execute Program"]
+    S --> E
+
+    BI --> SC["System Calls"]
+    E --> SC
+    SC --> K["Operating System Kernel"]
+
+    K --> F["File System"]
+    K --> N["Network"]
+    K --> M["Memory"]
+    K --> D["Devices"]
+
+    E --> O["stdout"]
+    E --> ER["stderr"]
+    O --> T
+    ER --> T
+
+    classDef main fill:#dcfce7,stroke:#16a34a,stroke-width:3px
+    classDef kernel fill:#e0e7ff,stroke:#4f46e5
+    class B main
+    class K kernel
+```
+
 # Awesome Malicious Shell Script Detection Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## 📖 Contents
