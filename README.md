@@ -1,13 +1,13 @@
 ```mermaid
 flowchart LR
-    U["User"] --> T["Terminal Emulator"]
+    U["User"] --> T["Terminal<br/>Emulator"]
     T --> PTY["Pseudo-Terminal"]
-    PTY --> B["Bash Shell"]
-    B --> P["Parse and Expand Command"]
+    PTY --> B["Bash<br/>Shell"]
+    B --> P["Parse<br/>and<br/>Expand Command"]
     P --> R{"Command Type?"}
 
-    R -->|Built-in| BI["Run inside Bash"]
-    R -->|External| C["Create Child Process"]
+    R -->|Built-in| BI["Run inside<br/>Bash"]
+    R -->|External| C["Create Child<br/>Process"]
     R -->|Script| S["Select Interpreter<br/>using shebang"]
 
     C --> E["Execute Program"]
