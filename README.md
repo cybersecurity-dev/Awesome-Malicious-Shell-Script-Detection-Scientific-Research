@@ -33,7 +33,7 @@ flowchart LR
     class K kernel
 ```
 
-# Awesome Malicious Shell Script Detection Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Malicious [Shell](https://github.com/cybersecurity-dev/awesome-bash-scripting-resources) [Script](https://github.com/cybersecurity-dev/awesome-bash-scripting-language) Detection Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## 📖 Contents
 - [2026](#2026) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [Others](#old)
@@ -91,5 +91,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/Awesome-Malicious-Shell-Script-Detection-Scientific-Research/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-malicious-shell-script-detection-scientific-research-)
