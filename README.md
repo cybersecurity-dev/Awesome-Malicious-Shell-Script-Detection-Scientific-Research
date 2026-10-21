@@ -35,6 +35,15 @@ flowchart LR
 
 # Awesome Malicious [Shell](https://github.com/cybersecurity-dev/awesome-bash-scripting-resources) [Script](https://github.com/cybersecurity-dev/awesome-bash-scripting-language) Detection Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center">
+    <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
+    &nbsp;
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    &nbsp;
+    <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
+    <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
+</p>
+
 ## 📖 Contents
 - [2026](#2026) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [Others](#old)
 - [My Other Awesome Lists](#my-other-awesome-lists)
