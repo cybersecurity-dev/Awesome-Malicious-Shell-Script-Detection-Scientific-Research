@@ -33,7 +33,7 @@ flowchart LR
     class K kernel
 ```
 
-# Awesome Malicious [Shell](https://github.com/cybersecurity-dev/awesome-bash-scripting-resources) [Script](https://github.com/cybersecurity-dev/awesome-bash-scripting-language) Detection Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Malicious Unix/Linux [Shell](https://github.com/cybersecurity-dev/awesome-bash-scripting-resources) [Script](https://github.com/cybersecurity-dev/awesome-bash-scripting-language) Detection Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
@@ -53,6 +53,9 @@ flowchart LR
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+> [!NOTE]
+> [BibTeX citation: Click here.](./mulscd.bib)
 
 ### 2026
 -
