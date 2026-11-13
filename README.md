@@ -49,13 +49,20 @@ flowchart LR
 </p>
 
 ## 📖 Contents
-- [2026](#2026) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [Others](#old)
+- [2027](#2027) | [2026](#2026)
+- [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020)
+- [Others](#old)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
 > [!NOTE]
 > [BibTeX citation: Click here.](./mulscd.bib)
+
+### 2027
+-
+-
+-
 
 ### 2026
 -
