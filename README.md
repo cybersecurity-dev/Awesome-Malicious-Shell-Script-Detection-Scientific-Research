@@ -73,7 +73,7 @@ flowchart LR
 -
 
 ### 2023
--
+- [SIFAST: An Efficient Unix Shell Embedding Framework for Malicious Detection](https://link.springer.com/chapter/10.1007/978-3-031-49187-0_4)
 -
 -
 
@@ -83,7 +83,7 @@ flowchart LR
 -
 
 ### 2021
--
+- [ShellCore: Automating Malicious IoT Software Detection Using Shell Commands Representation](https://ieeexplore.ieee.org/abstract/document/9446490)
 -
 -
 
